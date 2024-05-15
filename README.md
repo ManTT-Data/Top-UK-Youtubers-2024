@@ -1,5 +1,6 @@
-# Data Portfolio
+# Data Portfolio: Excel to Power BI 
 
-This is my portfolio ^^
+
+![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
 # Heading
